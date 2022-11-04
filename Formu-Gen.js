@@ -41,6 +41,7 @@ function chatbotResponse() {
 
   if (lastUserMessage === 'Hoe kom ik daar?') {
     botMessage = 'Ik stuur u door naar de pagina!';
+    target = _
   }
 
 }
