@@ -92,3 +92,26 @@ pre {
   background-color: #f0f0f0;
   margin-left: 20px;
 }
+.container{
+  width: 137%;
+  margin-left: -230px;
+  height: 100vh;
+  background-image: url(Welkom.png);
+  background-position: center;
+  background-size: cover;
+  padding-left: 8%;
+  padding-right: 8%;
+  box-sizing: border-box;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-position: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+}
+#wit {
+  position: relative;
+  left: 250px;
+}

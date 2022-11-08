@@ -39,9 +39,11 @@ function chatbotResponse() {
     botMessage = 'Reserveren kan je via de pagina Reserveren & Contact';
   }
 
+  if (lastUserMessage === 'Abdi') {
+    botMessage = 'Abdi is lelijk';
+  }
   if (lastUserMessage === 'Hoe kom ik daar?') {
     botMessage = 'Ik stuur u door naar de pagina!';
-    target = _
   }
 
 }
