@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("promo4.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/PROMOFOTO-2.png");
   background-position: 50% 50%;
 }
 
@@ -34,3 +34,107 @@
     min-height: 148px;
   }
 }
+    
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 80px;
+  color: rgba(199, 199, 199, 0.753);
+}
+.container{
+  width: 137%;
+  margin-left: -230px;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/PROMO\ FOTO\ -\ 1.png);
+  background-position: center;
+  background-size: cover;
+  padding-left: 8%;
+  padding-right: 8%;
+  box-sizing: border-box;
+}
+.menu{
+  width: 137%;
+  margin-left: -230px;
+  height: 1450px;
+  background-image: url(images/Achtergrond.png);
+  background-size: cover;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 306px;
+  text-align: left;
+}
+
+.centered2 {
+  position: absolute;
+  top: 8px;
+  margin-left: 970px;
+  text-align: right;
+}
+.top-left2 {
+  position: absolute;
+  top: 340px;
+  left: 306px;
+  text-align: left;
+}
+.top-left h6 {
+    font-size: 15px;
+  }
+  .centered2 h6{
+    font-size: 15px;
+  } 
+  .top-left2 h6{
+    font-size: 15px;
+  }
+
+.centered4 {
+  position: absolute;
+  margin-top: -233px;
+  margin-left: 450px;
+  text-align: right;
+  inline-size: 500px;
+}  
+.centered5 {
+  position: absolute;
+  top: 500px;
+  margin-left: 550px;
+  text-align: right;
+  inline-size: 400px;
+} 
+.centered6 {
+  position: absolute;
+  margin-top: -493px;
+  margin-left: 350px;
+  text-align: right;
+  inline-size: 600px;
+} 
+.top-left3 {
+  position: absolute;
+  top: 730px;
+  margin-left: 550px;
+  text-align: right;
+  inline-size: 400px;
+}
+.top-left4 {
+  position: absolute;
+  top: 400px;
+  text-align: left;
+  inline-size: 500px;
+}
+.top-left5 {
+  position: absolute;
+  top: 730px;
+  text-align: left;
+  inline-size: 500px;
+}
+.top-left6 {
+  position: absolute;
+  margin-left: 250px;
+  top: 940px;
+  text-align: center;
+  inline-size: 500px;
+}
+
