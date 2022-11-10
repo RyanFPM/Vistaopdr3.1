@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/PROMOFOTO-2.png");
   background-position: 50% 50%;
 }
@@ -71,7 +71,7 @@
 .centered2 {
   position: absolute;
   top: 8px;
-  margin-left: 970px;
+  margin-left: 1065px;
   text-align: right;
 }
 .top-left2 {
